@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo.png" width="128" alt="SpyEye logo">
+
 # SpyEye
 
 **Unnoticed. Undeniable.**
